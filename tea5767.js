@@ -6,7 +6,7 @@
 let i2c = require('i2c-bus'),
     i2c1 = i2c.openSync(1);
 
-let TEA5767_ADDR = 0x60
+let TEA5767_ADDR = 0x60;
 
 function setAddress(addr = 0x60) {
     TEA5767_ADDR = addr;
