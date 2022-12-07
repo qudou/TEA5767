@@ -1,7 +1,7 @@
 # TEA5767
 TEA5767 API for pi
 
-## install & use
+## Installation & use
 
 ```bash
 $ npm install tea5767
