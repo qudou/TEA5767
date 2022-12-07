@@ -1,0 +1,23 @@
+{
+  "name": "TEA5767",
+  "version": "1.0.00",
+  "dependencies": {
+    "i2c-bus": "^5.2.2"
+  },
+  "description": "TEA5767 for pi",
+  "main": "tea5767.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/qudou/TEA5767.git"
+  },
+  "homepage": "https://github.com/qudou/TEA5767",
+  "keywords": [
+    "TEA5767"
+  ],
+  "author": {
+    "name": "qudou",
+    "email": "xmlplus@qq.com"
+  },
+  "license": "MIT"
+}
