@@ -1,6 +1,6 @@
 {
-  "name": "TEA5767",
-  "version": "1.0.00",
+  "name": "tea5767",
+  "version": "1.0.2",
   "dependencies": {
     "i2c-bus": "^5.2.2"
   },
@@ -15,9 +15,9 @@
   "keywords": [
     "TEA5767"
   ],
-  "author": {
-    "name": "qudou",
-    "email": "xmlplus@qq.com"
-  },
-  "license": "MIT"
+  "author": "qudou <xmlplus@qq.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/qudou/TEA5767/issues"
+  }
 }

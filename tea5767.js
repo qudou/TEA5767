@@ -1,3 +1,8 @@
+/*!
+ * tea5767.js
+ * Released under the MIT license
+ */
+
 let i2c = require('i2c-bus'),
     i2c1 = i2c.openSync(1);
 
@@ -96,7 +101,7 @@ function writeBytes(data) {
     });
 }
 
-function delay() {
+function delay(ms) {
     return new Promise((resolve, reject) => setTimeout(resolve, ms));
 }
 
