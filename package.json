@@ -1,6 +1,6 @@
 {
   "name": "tea5767",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "dependencies": {
     "i2c-bus": "^5.2.2"
   },
